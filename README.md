@@ -24,3 +24,5 @@ Coursera course: HTML, CSS, and Javascript for Web Developers
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
 # To see the output [CLICK HERE](https://github.dev/SM0520/coursera-test/blob/gh-pages/Module%202)
+
+
